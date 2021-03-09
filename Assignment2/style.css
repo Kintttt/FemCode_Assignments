@@ -1,0 +1,39 @@
+.container{
+    width: 600px;
+    height: 600px;
+    border: 3px solid black;
+    margin: 50px 0 0 50px;
+ /*  padding: 10px;*/
+}
+h3{
+    padding-bottom: 1px;
+    border-bottom: 3px solid black;
+}
+.purple{
+    width: 542px;
+    height: 55px;
+    background-color: rgb(157, 100, 184);
+    border: 3px solid black;
+    margin-left: 20px;
+}
+.down{
+    width: 110px;
+    height: 390px;
+    background-color: aquamarine;
+    border: 3px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.red{
+    background-color: rgb(238, 115, 156);
+}
+.green{
+    background-color: rgb(120, 187, 120);
+}
+.orange{
+    background-color: rgb(255, 166, 0);
+}
